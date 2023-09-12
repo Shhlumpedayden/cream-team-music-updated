@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'MTEyNDc1MDc2Mzk1NzE3NDM4Mg.G1UZ-h.HMLk4LrG7Pj2xu9WacvZndW_o41zR7yUkamTWQ',
+        token: 'XXX',
         playing: 'dsc.gg/thecreamteam',
         global: true,
-        guild: '1101298239711490061',
+        guild: 'XXX',
         ExtraMessages: false,
         loopMessage: false,
 
